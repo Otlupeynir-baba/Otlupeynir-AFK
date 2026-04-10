@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Otlupeynirservisler",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "aho6f.aternos.me",
+    "port": 11403,
+    "version": "26.1.1",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "OTLUPEYNİR PREMİUM SADECE MAYIS'A ÖZEL 79,99₺!",
+        "Otlupeynir sevilir",
+        "Otlupeynirmarket için kurye parası Premium üyelere 5₺!"
       ]
     },
     "chat-log": true,
